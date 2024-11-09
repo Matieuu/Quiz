@@ -1,0 +1,474 @@
+question1:
+  question: Rozwiń skrót CPU.
+  correctAnswer: Central Processing Unit
+  questionType: WRITE
+question2:
+  question: Rozwiń skrót RAM.
+  correctAnswer: Random Access Memory
+  questionType: WRITE
+question3:
+  question: Rozwiń skrót SSD.
+  correctAnswer: Solid State Drive
+  questionType: WRITE
+question4:
+  question: Rozwiń skrót GPU.
+  correctAnswer: Graphics Processing Unit
+  questionType: WRITE
+question5:
+  question: Rozwiń skrót HTTP.
+  correctAnswer: HyperText Transfer Protocol
+  questionType: WRITE
+question6:
+  question: Rozwiń skrót HTTPS.
+  correctAnswer: HyperText Transfer Protocol Secure
+  questionType: WRITE
+question7:
+  question: Rozwiń skrót DNS.
+  correctAnswer: Domain Name System
+  questionType: WRITE
+question8:
+  question: Rozwiń skrót IP.
+  correctAnswer: Internet Protocol
+  questionType: WRITE
+question9:
+  question: Rozwiń skrót URL.
+  correctAnswer: Uniform Resource Locator
+  questionType: WRITE
+question10:
+  question: Rozwiń skrót SQL.
+  correctAnswer: Structured Query Language
+  questionType: WRITE
+question11:
+  question: Rozwiń skrót API.
+  correctAnswer: Application Programming Interface
+  questionType: WRITE
+question12:
+  question: Rozwiń skrót IDE.
+  correctAnswer: Integrated Development Environment
+  questionType: WRITE
+question13:
+  question: Rozwiń skrót OS.
+  correctAnswer: Operating System
+  questionType: WRITE
+question14:
+  question: Rozwiń skrót LAN.
+  correctAnswer: Local Area Network
+  questionType: WRITE
+question15:
+  question: Rozwiń skrót WAN.
+  correctAnswer: Wide Area Network
+  questionType: WRITE
+question16:
+  question: Rozwiń skrót VPN.
+  correctAnswer: Virtual Private Network
+  questionType: WRITE
+question17:
+  question: Rozwiń skrót IoT.
+  correctAnswer: Internet of Things
+  questionType: WRITE
+question18:
+  question: Rozwiń skrót AI.
+  correctAnswer: Artificial Intelligence
+  questionType: WRITE
+question19:
+  question: Rozwiń skrót ML.
+  correctAnswer: Machine Learning
+  questionType: WRITE
+question20:
+  question: Rozwiń skrót GUI.
+  correctAnswer: Graphical User Interface
+  questionType: WRITE
+question21:
+  question: Rozwiń skrót CLI.
+  correctAnswer: Command Line Interface
+  questionType: WRITE
+question22:
+  question: Rozwiń skrót BIOS.
+  correctAnswer: Basic Input Output System
+  questionType: WRITE
+question23:
+  question: Rozwiń skrót HTML.
+  correctAnswer: HyperText Markup Language
+  questionType: WRITE
+question24:
+  question: Rozwiń skrót CSS.
+  correctAnswer: Cascading Style Sheets
+  questionType: WRITE
+question25:
+  question: Rozwiń skrót JSON.
+  correctAnswer: JavaScript Object Notation
+  questionType: WRITE
+question26:
+  question: HTML jest językiem programowania.
+  correctAnswer: false
+  questionType: TRUE FALSE
+
+question27:
+  question: Python jest językiem interpretowanym.
+  correctAnswer: true
+  questionType: TRUE FALSE
+
+question28:
+  question: IPv6 używa 128-bitowych adresów.
+  correctAnswer: true
+  questionType: TRUE FALSE
+
+question29:
+  question: CSS służy do tworzenia struktury strony internetowej.
+  correctAnswer: false
+  questionType: TRUE FALSE
+
+question30:
+  question: JavaScript może być używany zarówno po stronie klienta, jak i serwera.
+  correctAnswer: true
+  questionType: TRUE FALSE
+
+question31:
+  question: SQL jest językiem programowania ogólnego przeznaczenia.
+  correctAnswer: false
+  questionType: TRUE FALSE
+
+question32:
+  question: Linux jest systemem operacyjnym typu open source.
+  correctAnswer: true
+  questionType: TRUE FALSE
+
+question33:
+  question: Algorytmy sortowania są używane do organizowania danych w określonym porządku.
+  correctAnswer: true
+  questionType: TRUE FALSE
+
+question34:
+  question: RAM przechowuje dane na stałe.
+  correctAnswer: false
+  questionType: TRUE FALSE
+
+question35:
+  question: Protokół FTP służy do przesyłania plików przez internet.
+  correctAnswer: true
+  questionType: TRUE FALSE
+
+question36:
+  question: JSON jest formatem wymiany danych.
+  correctAnswer: true
+  questionType: TRUE FALSE
+
+question37:
+  question: BIOS jest odpowiedzialny za uruchamianie systemu operacyjnego.
+  correctAnswer: true
+  questionType: TRUE FALSE
+
+question38:
+  question: IPv4 używa 64-bitowych adresów.
+  correctAnswer: false
+  questionType: TRUE FALSE
+
+question39:
+  question: Firewall chroni sieć przed nieautoryzowanym dostępem.
+  correctAnswer: true
+  questionType: TRUE FALSE
+
+question40:
+  question: Phishing to metoda zabezpieczania danych.
+  correctAnswer: false
+  questionType: TRUE FALSE
+
+question41:
+  question: Algorytmy uczenia maszynowego mogą się uczyć na podstawie danych.
+  correctAnswer: true
+  questionType: TRUE FALSE
+
+question42:
+  question: Chmura obliczeniowa to fizyczne urządzenie przechowujące dane.
+  correctAnswer: false
+  questionType: TRUE FALSE
+
+question43:
+  question: Protokół HTTPS zapewnia bezpieczne połączenie internetowe.
+  correctAnswer: true
+  questionType: TRUE FALSE
+
+question44:
+  question: Git jest systemem kontroli wersji.
+  correctAnswer: true
+  questionType: TRUE FALSE
+
+question45:
+  question: Python jest językiem kompilowanym.
+  correctAnswer: false
+  questionType: TRUE FALSE
+
+question46:
+  question: DNS tłumaczy nazwy domen na adresy IP.
+  correctAnswer: true
+  questionType: TRUE FALSE
+
+question47:
+  question: Protokół TCP jest używany do bezpołączeniowej transmisji danych.
+  correctAnswer: false
+  questionType: TRUE FALSE
+
+question48:
+  question: Sztuczna inteligencja to dziedzina zajmująca się tworzeniem systemów zdolnych do wykonywania zadań wymagających inteligencji ludzkiej.
+  correctAnswer: true
+  questionType: TRUE FALSE
+
+question49:
+  question: Protokół UDP jest bardziej niezawodny niż TCP.
+  correctAnswer: false
+  questionType: TRUE FALSE
+
+question50:
+  question: JSON oznacza JavaScript Object Notation.
+  correctAnswer: true
+  questionType: TRUE FALSE
+
+question51:
+  question: Który z poniższych języków programowania jest językiem skryptowym?
+  answers:
+    - C++
+    - Java
+    - Python
+    - C#
+  correctAnswer: Python
+  questionType: CHOOSE FOUR
+
+question52:
+  question: Który z poniższych protokołów jest używany do przesyłania poczty elektronicznej?
+  answers:
+    - FTP
+    - SMTP
+    - HTTP
+    - DNS
+  correctAnswer: SMTP
+  questionType: CHOOSE FOUR
+
+question53:
+  question: Który z poniższych systemów operacyjnych jest typu open source?
+  answers:
+    - Windows
+    - macOS
+    - Linux
+    - iOS
+  correctAnswer: Linux
+  questionType: CHOOSE FOUR
+
+question54:
+  question: Który z poniższych języków jest używany do stylizacji stron internetowych?
+  answers:
+    - HTML
+    - CSS
+    - SQL
+    - Python
+  correctAnswer: CSS
+  questionType: CHOOSE FOUR
+
+question55:
+  question: Który z poniższych jest bazą danych NoSQL?
+  answers:
+    - MySQL
+    - PostgreSQL
+    - MongoDB
+    - SQLite
+  correctAnswer: MongoDB
+  questionType: CHOOSE FOUR
+
+question56:
+  question: Który z poniższych jest systemem kontroli wersji?
+  answers:
+    - Git
+    - Docker
+    - Kubernetes
+    - Jenkins
+  correctAnswer: Git
+  questionType: CHOOSE FOUR
+
+question57:
+  question: Który z poniższych jest językiem znaczników?
+  answers:
+    - Python
+    - Java
+    - HTML
+    - C++
+  correctAnswer: HTML
+  questionType: CHOOSE FOUR
+
+question58:
+  question: Który z poniższych jest frameworkiem JavaScript?
+  answers:
+    - Django
+    - Flask
+    - React
+    - Laravel
+  correctAnswer: React
+  questionType: CHOOSE FOUR
+
+question59:
+  question: Który z poniższych jest narzędziem do wirtualizacji?
+  answers:
+    - Git
+    - Docker
+    - Jenkins
+    - Ansible
+  correctAnswer: Docker
+  questionType: CHOOSE FOUR
+
+question60:
+  question: Który z poniższych jest protokołem bezpiecznego przesyłania plików?
+  answers:
+    - FTP
+    - SFTP
+    - HTTP
+    - SMTP
+  correctAnswer: SFTP
+  questionType: CHOOSE FOUR
+
+question61:
+  question: Który z poniższych jest językiem programowania używanym do analizy danych?
+  answers:
+    - Python
+    - Java
+    - C++
+    - PHP
+  correctAnswer: Python
+  questionType: CHOOSE FOUR
+
+question62:
+  question: Który z poniższych jest narzędziem do automatyzacji testów?
+  answers:
+    - Selenium
+    - Git
+    - Docker
+    - Kubernetes
+  correctAnswer: Selenium
+  questionType: CHOOSE FOUR
+
+question63:
+  question: Który z poniższych jest narzędziem do zarządzania konfiguracją?
+  answers:
+    - Ansible
+    - Git
+    - Jenkins
+    - Docker
+  correctAnswer: Ansible
+  questionType: CHOOSE FOUR
+
+question64:
+  question: Który z poniższych jest językiem programowania używanym do tworzenia aplikacji mobilnych?
+  answers:
+    - Python
+    - Java
+    - C++
+    - SQL
+  correctAnswer: Java
+  questionType: CHOOSE FOUR
+
+question65:
+  question: Który z poniższych jest narzędziem do monitorowania aplikacji?
+  answers:
+    - Prometheus
+    - Git
+    - Docker
+    - Ansible
+  correctAnswer: Prometheus
+  questionType: CHOOSE FOUR
+
+question66:
+  question: Który z poniższych jest narzędziem do zarządzania kontenerami?
+  answers:
+    - Kubernetes
+    - Git
+    - Jenkins
+    - Ansible
+  correctAnswer: Kubernetes
+  questionType: CHOOSE FOUR
+
+question67:
+  question: Który z poniższych jest językiem programowania używanym do tworzenia stron internetowych?
+  answers:
+    - Python
+    - Java
+    - PHP
+    - C++
+  correctAnswer: PHP
+  questionType: CHOOSE FOUR
+
+question68:
+  question: Który z poniższych jest narzędziem do analizy logów?
+  answers:
+    - Elasticsearch
+    - Git
+    - Docker
+    - Jenkins
+  correctAnswer: Elasticsearch
+  questionType: CHOOSE FOUR
+
+question69:
+  question: Który z poniższych jest narzędziem do zarządzania projektami?
+  answers:
+    - Jira
+    - Git
+    - Docker
+    - Ansible
+  correctAnswer: Jira
+  questionType: CHOOSE FOUR
+
+question70:
+  question: Który z poniższych jest językiem programowania używanym do tworzenia gier?
+  answers:
+    - Python
+    - Java
+    - C#
+    - SQL
+  correctAnswer: C#
+  questionType: CHOOSE FOUR
+
+question71:
+  question: Który z poniższych jest narzędziem do zarządzania bazami danych?
+  answers:
+    - MySQL
+    - Git
+    - Docker
+    - Jenkins
+  correctAnswer: MySQL
+  questionType: CHOOSE FOUR
+
+question72:
+  question: Który z poniższych jest narzędziem do analizy danych?
+  answers:
+    - Pandas
+    - Git
+    - Docker
+    - Jenkins
+  correctAnswer: Pandas
+  questionType: CHOOSE FOUR
+
+question73:
+  question: Który z poniższych jest językiem programowania używanym do tworzenia aplikacji desktopowych?
+  answers:
+    - Python
+    - Java
+    - C++
+    - PHP
+  correctAnswer: C++
+  questionType: CHOOSE FOUR
+
+question74:
+  question: Który z poniższych jest narzędziem do zarządzania wersjami?
+  answers:
+    - Git
+    - Docker
+    - Jenkins
+    - Ansible
+  correctAnswer: Git
+  questionType: CHOOSE FOUR
+
+question75:
+  question: Który z poniższych jest narzędziem do automatyzacji wdrożeń?
+  answers:
+    - Jenkins
+    - Git
+    - Docker
+    - Ansible
+  correctAnswer: Jenkins
+  questionType: CHOOSE FOUR
